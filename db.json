@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "student_name": "Rohit",
+      "rank": "1",
+      "college_preference1": "IIT Roorkee",
+      "college_preference2": "IIT Roorkee",
+      "college_preference3": "IIT Hyderabad"
+    },
+    {
+      "id": 2,
+      "student_name": "Ramesh Kumar",
+      "rank": "12",
+      "college_preference1": "IIT Kanpur",
+      "college_preference2": "IIT Roorkee",
+      "college_preference3": "IIT Hyderabad"
+    },
+    {
+      "id": 3,
+      "student_name": "Ankit",
+      "rank": "4",
+      "college_preference1": "IIT Bombay",
+      "college_preference2": "IIT Madras",
+      "college_preference3": "IIT Hyderabad"
+    },
+    {
+      "id": 4,
+      "student_name": "Shubham",
+      "rank": "9",
+      "college_preference1": "IIT Bombay",
+      "college_preference2": "IIT Madras",
+      "college_preference3": "IIT Hyderabad"
+    },
+    {
+      "id": 5,
+      "student_name": "Roshan",
+      "rank": "3",
+      "college_preference1": "IIT Madras",
+      "college_preference2": "IIT Bombay",
+      "college_preference3": "IIT Hyderabad"
+    },
+    {
+      "id": "b389e498-c1b8-4494-aab5-e08479ab3601",
+      "student_name": "a",
+      "rank": "1",
+      "college_preference1": "IIT Roorkee",
+      "college_preference2": "IIT Bombay",
+      "college_preference3": "IIT Madras"
+    }
+  ],
+  "collegelist": [
+    {
+      "id": 1,
+      "college_name": "IIT Kanpur",
+      "noOfSeats": 2
+    },
+    {
+      "id": 2,
+      "college_name": "IIT Madras",
+      "noOfSeats": 4
+    },
+    {
+      "id": 3,
+      "college_name": "IIT Bombay",
+      "noOfSeats": 1
+    },
+    {
+      "id": 4,
+      "college_name": "IIT Hyderabad",
+      "noOfSeats": 3
+    },
+    {
+      "id": 5,
+      "college_name": "IIT Roorkee",
+      "noOfSeats": 1
+    },
+    {
+      "id": 6,
+      "college_preference1": "IIM AHMEDABAD",
+      "noOfSeats": 2
+    }
+  ]
+}

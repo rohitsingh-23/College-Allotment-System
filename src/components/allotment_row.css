@@ -1,0 +1,37 @@
+.iit_kanpur>span{
+    background-color: #c1ddf5
+}
+.iit_bombay>span{
+    background-color:#f4e6bf
+}
+.iit_roorkee>span{
+    background-color:#cdbbf4
+}
+.iit_hyderabad>span{
+    background-color:#c1ddf5
+}
+.iit_madras>span{
+    background-color:#f4e6bf
+}
+td, th{
+    border: 2px solid rgb(224, 224, 224);
+    padding: 15px 0px
+}
+th{
+    padding: 10px 25px;
+    background-color:#e4eef9
+}
+table{
+    border-collapse: collapse
+}
+.clg>span{
+    padding: 5px 10px;
+    border-radius: 20px;
+    /* box-sizing: border-box; */
+    /* border: 1px solid red; */
+}
+/* td{
+    background-color: teal;
+} */
+
+/* #e4eef9 */

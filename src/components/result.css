@@ -1,0 +1,13 @@
+.result_container{
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 70%;
+    /* border: 1px solid red */
+}
+.result_div_title{
+    text-align: center;
+}
+.result_table{
+    margin: auto;
+}

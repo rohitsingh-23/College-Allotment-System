@@ -1,0 +1,53 @@
+.main_container{
+    /* position: relative;
+    border: 1px solid rgb(86, 5, 5); */
+    margin: auto;
+    width: 80%;
+}
+.add_student_div{
+    position: absolute;
+    top: 10%;
+    left: 34%;
+}
+.add_get{
+    display: flex;
+}
+
+.add_get>button{
+    margin: 15px;
+    background-color: #1b3e85;
+    color: white;
+    border: none;
+    border-radius:5px;
+    padding: 10px;
+}
+/* .circle{
+    background-color: red;
+    position: relative;
+    top: 20;
+    left: 0;
+} */
+.tr{
+    /* border: 4px solid green; */
+}
+.col_title {
+    /* border: 1px solid red; */
+    /* position: relative; */
+}
+.circle{
+    box-sizing: border-box;
+    font-size: 20px;
+    position: relative;
+    /* left: -5px; */
+    top: 4px;
+    cursor: pointer;
+    z-index: 1;
+}
+.right {
+    box-sizing: border-box;
+    font-size: 20px;
+    position: relative;
+    left: 10px;
+    top: 4px;
+    cursor: pointer;
+}
