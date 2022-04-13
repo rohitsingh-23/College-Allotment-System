@@ -61,10 +61,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Colleges and their seats
+College and number of seats in each college is fixed as given below <br/>
+[
+{ name:’IIT Madras’, noOfSeats:4 },<br/>
+{ name:’IIT Kanpur’, noOfSeats:2 },<br/>
+{ name:’IIT Bombay’, noOfSeats:1 },<br/>
+{ name:’IIIT Hyderabad’, noOfSeats:3 },<br/>
+{ name:’IIT Roorkee’, noOfSeats:1 },<br/>
+{ name:’IIM Ahemedabad’, noOfSeats:2 }, <br/>
+]
