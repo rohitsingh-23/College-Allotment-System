@@ -29,10 +29,12 @@ function AllotmentRow({
           return "clg iit_madras";
         } else if (name == "IIT Bombay") {
           return "clg iit_bombay";
-        } else if (name == "IIT Roorkee") {
+        } else if (name == "IIT Roorkee" ) {
           return "clg iit_roorkee";
         } else if (name == "IIT Hyderabad") {
-            return "clg iit_hyderabad"
+          return "clg iit_hyderabad";
+        } else if (name == "IIM Ahmedabad") {
+          return "clg iim_ahmedabad";
         }
     }
   
@@ -109,6 +111,7 @@ function AllotmentRow({
                   <option value="IIT Hyderabad"></option>
                   <option value="IIT Bombay"></option>
                   <option value="IIT Madras"></option>
+                  <option value="IIM Ahmedabad"></option>
                 </datalist>
               </span>
             </td>
@@ -128,6 +131,7 @@ function AllotmentRow({
                   <option value="IIT Hyderabad"></option>
                   <option value="IIT Bombay"></option>
                   <option value="IIT Madras"></option>
+                  <option value="IIM Ahmedabad"></option>
                 </datalist>
               </span>
             </td>
@@ -147,6 +151,7 @@ function AllotmentRow({
                   <option value="IIT Hyderabad"></option>
                   <option value="IIT Bombay"></option>
                   <option value="IIT Madras"></option>
+                  <option value="IIM Ahmedabad"></option>
                 </datalist>
               </span>
             </td>

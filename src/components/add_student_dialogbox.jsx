@@ -80,6 +80,7 @@ function AddStudentBox({handleShow, data, addData }) {
               <option value="IIT Hyderabad"></option>
               <option value="IIT Bombay"></option>
               <option value="IIT Madras"></option>
+              <option value="IIM Ahmedabad"></option>
             </datalist>
           </div>
           <div>
@@ -110,7 +111,7 @@ function AddStudentBox({handleShow, data, addData }) {
           <button
             onClick={() => {
               handleClear();
-              handleShow()
+              handleShow();
             }}
           >
             Cancel

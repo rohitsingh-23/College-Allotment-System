@@ -33,8 +33,6 @@ function Result() {
           .get("https://mockserver-recordbook.herokuapp.com/collegelist")
           .then((response) => {
             setColleges(response.data);
-            //   console.log(response.data, "temp", temp);
-            // allotStudents();
             setList(allot(temp, response.data));
             //   console.log("dfndahfnb[uiodasf eoiurfhveartbeup",allot(temp, response.data));
           });
@@ -62,6 +60,8 @@ function Result() {
       return "clg iit_roorkee";
     } else if (name == "IIT Hyderabad") {
       return "clg iit_hyderabad";
+    } else if (name == "IIM Ahmedabad") {
+      return "clg iim_ahmedabad";
     }
   }
 

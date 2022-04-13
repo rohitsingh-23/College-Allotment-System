@@ -1,5 +1,5 @@
 function allot(stu, col) {
-    // console.log(students, colleges)
+    console.log(stu, col)
   let students = [...stu]
     const colleges = [...col]
     
